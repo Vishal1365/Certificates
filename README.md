@@ -15,7 +15,10 @@ This repository contains my professional certificates from virtual internships a
 ## 🏢 Tata Forage  
 **Program:** Virtual Experience Program  
 📄 [View Certificate](MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_qYY3ccQ7TKPkyDwTB_1757503901858_completion_certificate.pdf)  
-📄 [View Certificate](genai_powered data analytics_completion_certificate.pdf)  
+ ## 🏢 Tata Forage  
+**Program:** Virtual Experience Program  
+📄 [View Certificate] ()
+
 
 ---
 
