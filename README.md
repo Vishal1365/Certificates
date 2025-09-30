@@ -8,13 +8,13 @@ This repository contains my professional certificates from virtual internships a
 
 ## 🏢 Deloitte (Forage)  
 **Program:** Data Analytics Virtual Internship  
-📄 [View Certificate](link-to-your-certificate-file)  
+📄 [View Certificate](io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_qYY3ccQ7TKPkyDwTB_1754894906480_completion_certificate.pdf)  
 
 ---
 
 ## 🏢 Tata Forage  
 **Program:** Virtual Experience Program  
-📄 [View Certificate](link-to-your-certificate-file)  
+📄 [View Certificate]()  
 
 ---
 
